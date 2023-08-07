@@ -31,7 +31,6 @@ version = 'main'
 # ones.
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'defaults2rst',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
